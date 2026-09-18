@@ -4,10 +4,17 @@
     <title>Print on Demand &amp; Etsy Scale Hub</title>
     <link>https://print-on-demand-etsy-scale-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:21:06 GMT</lastBuildDate>
     <atom:link href="https://print-on-demand-etsy-scale-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:21:06 GMT</pubDate>
+      <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>Print on Demand &amp; Etsy Scale Hub Initial Release</title>
       <link>https://print-on-demand-etsy-scale-hub.vercel.app/</link>
       <pubDate>Wed, 16 Sep 2026 10:50:36 GMT</pubDate>
