@@ -4,10 +4,17 @@
     <title>Print on Demand &amp; Etsy Scale Hub</title>
     <link>https://print-on-demand-etsy-scale-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:07:40 GMT</lastBuildDate>
     <atom:link href="https://print-on-demand-etsy-scale-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-forum-20261019-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:07:40 GMT</pubDate>
+      <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-forum-20261019-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-reddit-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:32:13 GMT</pubDate>
       <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/devops/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-reddit-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:08:00 GMT</pubDate>
-      <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: The center of DevOps culture, automation tooling, CI/CD pipelines, GitOps workflows, and infrastructure as code.</description>
     </item>
   </channel>
 </rss>
