@@ -4,10 +4,17 @@
     <title>Print on Demand &amp; Etsy Scale Hub</title>
     <link>https://print-on-demand-etsy-scale-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 06:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:59:29 GMT</lastBuildDate>
     <atom:link href="https://print-on-demand-etsy-scale-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-forum-20261019-1-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:29 GMT</pubDate>
+      <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-forum-20261019-1-2026-11-08</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-telegram-20261010-1-2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 06:07:42 GMT</pubDate>
       <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/print-on-demand-etsy-scale-hub/#print-on-demand-etsy-scale-hub-telegram-20261009-1-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 06:08:05 GMT</pubDate>
-      <description>Newly verified community added to Print on Demand &amp; Etsy Scale Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
